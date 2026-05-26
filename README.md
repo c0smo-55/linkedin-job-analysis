@@ -49,7 +49,7 @@ linkedin-job-analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/linkedin-job-analysis.git
+   git clone https://github.com/c0smo-55/linkedin-job-analysis.git
    cd linkedin-job-analysis
    ```
 
@@ -64,7 +64,7 @@ linkedin-job-analysis/
    
    - Create a `data/` folder in the project root
    - Place the 5 data files (`postings1.csv` through `postings5.xlsx`) in the `data/` folder
-   - Dataset source: [LinkedIn Job Postings Dataset 2023](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings) (or specify your source)
+   - Dataset contains LinkedIn job postings data
 
 4. **Run the analysis**
    ```bash
@@ -166,21 +166,13 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 **Hannah How**
 
 - GitHub: [@c0smo-55](https://github.com/c0smo-55)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  ← Add your profile link
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  ← Optional
 
 ## 📊 Dataset Attribution
 
-This analysis uses the **LinkedIn Job Postings Dataset** which contains job posting data scraped from LinkedIn. 
-
-- **Source**: [Specify your data source]
-- **Size**: 123,849 job postings
-- **Time period**: [Specify time period]
-- **Geographic focus**: Primarily United States
+This analysis uses a LinkedIn Job Postings Dataset containing 123,849 job postings with geographic focus primarily on the United States.
 
 ## 🙏 Acknowledgments
 
-- Dataset provided by [source/platform]
 - Inspired by real-world job market analysis challenges
 - Built as part of continuous learning in data science
 
@@ -188,4 +180,4 @@ This analysis uses the **LinkedIn Job Postings Dataset** which contains job post
 
 ⭐ If you found this project helpful, consider giving it a star!
 
-📧 Questions? Feel free to reach out via [GitHub](https://github.com/c0smo-55) or [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 Questions? Feel free to reach out via [GitHub](https://github.com/c0smo-55)
