@@ -159,13 +159,13 @@ SOFTWARE.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/linkedin-job-analysis/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/c0smo-55/linkedin-job-analysis/issues).
 
 ## 👤 Author
 
 **Hannah How**
 
-- GitHub: [@yourusername](https://github.com/yourusername)  ← Replace with your username
+- GitHub: [@c0smo-55](https://github.com/c0smo-55)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  ← Add your profile link
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)  ← Optional
 
@@ -188,4 +188,4 @@ This analysis uses the **LinkedIn Job Postings Dataset** which contains job post
 
 ⭐ If you found this project helpful, consider giving it a star!
 
-📧 Questions? Feel free to reach out via [GitHub](https://github.com/yourusername) or [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 Questions? Feel free to reach out via [GitHub](https://github.com/c0smo-55) or [LinkedIn](https://linkedin.com/in/yourprofile)

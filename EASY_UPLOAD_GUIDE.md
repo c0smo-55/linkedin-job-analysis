@@ -14,15 +14,15 @@
    - **DON'T** check "Initialize with README" (we have our own)
    - Click **Create repository**
 
-3. **Run these commands** (replace `YOUR-USERNAME` with your GitHub username):
+3. **Run these commands** (with your GitHub username c0smo-55):
    ```powershell
    cd C:\Users\hanna\Downloads\linkedin-job-analysis
-   git remote add origin https://github.com/YOUR-USERNAME/linkedin-job-analysis.git
+   git remote add origin https://github.com/c0smo-55/linkedin-job-analysis.git
    git branch -M main
    git push -u origin main
    ```
 
-4. **Done!** 🎉 Your project is live at: `github.com/YOUR-USERNAME/linkedin-job-analysis`
+4. **Done!** 🎉 Your project is live at: `github.com/c0smo-55/linkedin-job-analysis`
 
 ---
 
@@ -94,11 +94,11 @@ To:
 ```
 To:
 ```markdown
-- GitHub: [@hannahhow](https://github.com/hannahhow)  ← Use your actual username
+- GitHub: [@c0smo-55](https://github.com/c0smo-55)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  ← Add your profile
 ```
 
-**Throughout the README:** Replace `yourusername` with your actual GitHub username
+**Throughout the README:** Already updated with your username c0smo-55!
 
 ---
 
@@ -115,7 +115,7 @@ Analyzed 123,000+ LinkedIn job postings to discover:
 
 Built with Python, Pandas & Matplotlib
 
-Check it out: github.com/YOUR-USERNAME/linkedin-job-analysis
+Check it out: github.com/c0smo-55/linkedin-job-analysis
 
 #DataScience #Python #DataAnalytics #MachineLearning #Portfolio
 ```

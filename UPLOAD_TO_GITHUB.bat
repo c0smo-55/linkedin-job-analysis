@@ -40,10 +40,10 @@ echo 5. Click "Create repository"
 echo.
 echo 6. Copy the commands GitHub shows you, OR run these:
 echo.
-echo    git remote add origin https://github.com/YOUR-USERNAME/linkedin-job-analysis.git
+echo    git remote add origin https://github.com/c0smo-55/linkedin-job-analysis.git
 echo    git branch -M main
 echo    git push -u origin main
 echo.
-echo Replace YOUR-USERNAME with your actual GitHub username!
+echo Your GitHub username: c0smo-55
 echo.
 pause
