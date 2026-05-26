@@ -129,11 +129,6 @@ data/
 *.csv
 *.xlsx
 *.xls
-*.json
-*.parquet
-
-# Except sample data (if you want to include small samples)
-!sample_data/
 
 # Model files
 *.h5
